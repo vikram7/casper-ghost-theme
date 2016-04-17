@@ -1,8 +1,6 @@
 # Casper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
-
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+My modified default [Ghost](http://github.com/tryghost/ghost/) theme for https://www.recaps.io/.
 
 ## Copyright & License
 
